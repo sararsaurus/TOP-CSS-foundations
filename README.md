@@ -1,1 +1,2 @@
-# TOP-CSS-foundations
+TOP CSS Foundations project
+Learn CSS basics, including flexbox 
